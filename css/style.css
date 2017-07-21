@@ -252,14 +252,14 @@ section h2 span {
 
 	.col4 li{
 		display: inline-block;
-		width: 18%;
+		width: 40%;
 		padding: 0 3%;
 		vertical-align: top;
 		text-align: left;
 	}
 
 	#map iframe{
-		height: 200px !important;
+		height: 300px !important;
   }
 
   #footer{
