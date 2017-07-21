@@ -36,6 +36,16 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 /* ヘッダー
 ------------------------------------------------------------*/
+#header_logo {
+    background: url(/images/header_bg.jpg);
+    background-repeat: no-repeat;
+    height: 75px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+}
+
 #mainnav a{
 	color: #ff6600;
 	font-family: メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku GothicPro", "KozGoStd-Light", "KozGoStd-Regular", Arial, "Trebuchet MS", Helvetica, Verdana, sans-serif;
