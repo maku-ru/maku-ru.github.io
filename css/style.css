@@ -38,12 +38,10 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 ------------------------------------------------------------*/
 #header_logo {
     background: url(/images/header_bg.jpg);
-    background-repeat: no-repeat;
     height: 75px;
     margin-top: 0px;
     margin-right: auto;
     margin-left: auto;
-    width: 1000px;
 }
 
 #mainnav a{
