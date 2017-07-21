@@ -130,7 +130,7 @@ section h2 span {
 
 /* SEC03 BRAND
 ------------------------------------------------------------*/
-.col4 .img{
+.col8 .img{
 	margin: 0 auto;
 }
 
@@ -246,13 +246,13 @@ section h2 span {
 
 	/* SEC03 BRAND
 	-----------------*/
-	.col4{
-		text-align: center;
+	.col8{
+		text-align: left;
 	}
 
-	.col4 li{
+	.col8 li{
 		display: inline-block;
-		width: 80%;
+		width: 40%;
 		padding: 0 3%;
 		vertical-align: top;
 		text-align: left;
