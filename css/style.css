@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6{font-size:100%;}
 img,abbr,acronym,fieldset{border:0;}
 
 body{
-	font: 14px/1.9 'Noto Sans JP', Arial, Verdana, 游ゴシック, YuGothic,'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo,sans-serif;
+	font: 14px/1.9 メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku GothicPro", "KozGoStd-Light", "KozGoStd-Regular", Arial, "Trebuchet MS", Helvetica, Verdana, sans-serif;
 	font-weight: 300;
 	-webkit-text-size-adjust:100%;
 	overflow-x: hidden;
@@ -37,8 +37,8 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 /* ヘッダー
 ------------------------------------------------------------*/
 #mainnav a{
-	color: #000;
-	font-family: 'Modern Antiqua', 'Noto Sans JP',serif;
+	color: #ff6600;
+	font-family: メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku GothicPro", "KozGoStd-Light", "KozGoStd-Regular", Arial, "Trebuchet MS", Helvetica, Verdana, sans-serif;
 }
 
 
@@ -55,7 +55,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 /* 共通
 ------------------------------------------------------------*/
 h1, h2{
-	font-family: 'Modern Antiqua', 'Noto Sans JP',serif;
+	font-family: メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku GothicPro", "KozGoStd-Light", "KozGoStd-Regular", Arial, "Trebuchet MS", Helvetica, Verdana, sans-serif;
 }
 
 img{
@@ -197,15 +197,15 @@ section h2 span {
 	body{
 		font-size:14px;
 	}
-	
+
 	#wrapper{
 		width: 100%;
 	}
-	
+
 	#content{
 		width: 80%;
 	}
-	
+
 	#sidebar{
 		width: 12%;
 		position: fixed;
@@ -213,15 +213,15 @@ section h2 span {
 		right: 4%;
 		background: #fff;
 	}
-	
+
   a#menu{
 		display:none;
-	}	
+	}
 
 	.panel{
 		display:block !important;
 	}
-	
+
 	#sidebar h1{
 		padding: 30px 0;
 	}
@@ -230,11 +230,11 @@ section h2 span {
 		font-size: 14px;
 		padding: 10px 0;
 	}
-	
+
 	#sns{
 		margin-top: 50px;
 	}
-	
+
 	#sns li{
 		display: inline-block;
 		padding-right: 10px;
@@ -243,7 +243,7 @@ section h2 span {
 	#sns a:hover img{
 		opacity: .8;
 	}
-	
+
 	/* SEC03 BRAND
 	-----------------*/
 	.col4{
@@ -257,11 +257,11 @@ section h2 span {
 		vertical-align: top;
 		text-align: left;
 	}
-	
+
 	#map iframe{
 		height: 200px !important;
   }
-	
+
   #footer{
 		padding: 30px 10px 70px 0;
 	}
@@ -305,7 +305,7 @@ section h2 span {
 		width: 100%;
 		z-index:500;
 	}
-	
+
 	#sidebarWrap{
 		position: relative;
 		width: 100%;
@@ -313,17 +313,17 @@ section h2 span {
 		background: #fff;
 		border-bottom: 1px solid #ccc;
 	}
-	
+
 	#sidebar h1{
 		text-align: center;
 		padding-top: 15px;
 	}
-	
+
 	#sidebar h1 img{
 		width: auto !important;
 		max-height: 25px;
 	}
-	
+
   a#menu{
   	display: inline-block;
   	position: relative;
